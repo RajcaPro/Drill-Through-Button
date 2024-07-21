@@ -1,6 +1,6 @@
 # Drill Through Button
 
-Hey everyone !
+Hey everyone! 🌍🤝
 I hope you are doing great :)
 
 Today I come to you with an idea. 
@@ -30,4 +30,62 @@ Result :
 ![image](https://github.com/user-attachments/assets/b0faf409-c845-4b67-8c9b-f6933b52df49)
 
 
-![image](https://github.com/user-attachments/assets/9c681d32-8986-4d0a-9fa6-6a9d93ec0799)
+![image](https://github.com/user-attachments/assets/5ce72b65-6806-4252-b356-1fa835528b83)
+
+Let's assume that our button is to be triggered when we click on any of the regions.
+We have a number of sales directors, and each of them will want, when redirected to the second page of the report, all the visuals on that page to apply only to their region.
+
+So let's change the settings of our button !
+
+![image](https://github.com/user-attachments/assets/7cd2ef2e-e784-4262-8209-713e83d2e182)
+
+Our next task is to create a destination for the drill through, i.e. our second report page. 
+
+![image](https://github.com/user-attachments/assets/b669a2b5-a8bb-409b-a097-20c6e68c9db4)
+
+To do so, let us turn to our second page of the report.
+
+In the page format settings, go to -> page information and change the page type to Drill Through, name the page XYZ.
+
+![image](https://github.com/user-attachments/assets/cf480222-f57e-41b8-9916-ecb655113c09)
+
+Next, in the Drill through from section, let's select our region chart.
+
+![image](https://github.com/user-attachments/assets/9c072475-1415-4835-8209-4b3a8b09aa14)
+
+Once the page is prepared in this way, we can return to our !
+
+In the Action -> destination section, our XYZ page appears, which we must select !
+
+![image](https://github.com/user-attachments/assets/9fa2baac-9957-4e72-8aaa-a56a21c1daff)
+
+Result :
+
+![image](https://github.com/user-attachments/assets/84b19a8a-9300-49d0-8384-c6ffd2ea5ce7)
+
+We can see that our button is greyed out, indicating that one of our regions must be selected in order to use it ! 
+
+![image](https://github.com/user-attachments/assets/2fe699f9-f03a-4e5c-8faf-7561cff48ba5)
+
+Finally, we can create an arrow on the second page of the report to return to the Executive Summary.
+To ensure that our button actually displays data for each region, we will create a region slicer.
+
+![image](https://github.com/user-attachments/assets/c24cd68d-4cb5-4c6d-be94-3e10d16f0c05)
+
+
+
+
+Everything works! ✨ 
+This is the end of this guide ! 
+
+I hope you will use it in your work 🚀
+
+Regards,
+Mateusz Rajca
+
+
+
+
+
+
+
