@@ -17,4 +17,3 @@ So the question is what to do ?
 With the help of Drill Through comes to us !
 with this, we can use the button created to send the user to another report page, which we have previously hidden !
 
-Translated with DeepL.com (free version)
