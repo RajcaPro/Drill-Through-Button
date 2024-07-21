@@ -17,3 +17,17 @@ So the question is what to do ?
 With the help of Drill Through comes to us !
 with this, we can use the button created to send the user to another report page, which we have previously hidden !
 
+Step 1.
+
+For the sake of problem solving, let's create a 2-page report with visuals.
+The first will contain a single :clustered column chart which contains on the x axis the region and on the y axis profit and profit py ( previous year).
+For this, we create a button to send us back to the second page of the report.
+
+On the second page of the report I will create sample visualisations. It does not matter what they are, as it depends on the individual business context!
+
+Result :
+
+![image](https://github.com/user-attachments/assets/4b416f2f-1ae6-47d3-a304-5ffa5d15e28b)
+
+
+![image](https://github.com/user-attachments/assets/9c681d32-8986-4d0a-9fa6-6a9d93ec0799)
