@@ -27,7 +27,7 @@ On the second page of the report I will create sample visualisations. It does no
 
 Result :
 
-![image](https://github.com/user-attachments/assets/4b416f2f-1ae6-47d3-a304-5ffa5d15e28b)
+![image](https://github.com/user-attachments/assets/b0faf409-c845-4b67-8c9b-f6933b52df49)
 
 
 ![image](https://github.com/user-attachments/assets/9c681d32-8986-4d0a-9fa6-6a9d93ec0799)
